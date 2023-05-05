@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemel-masry&label=Profile%20views&color=0e75b6&style=flat" alt="hazemel-masry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemel-masry" alt="hazemel-masry" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hazemel-masry" alt="hazemel-masry" /></a> </p>
 
 - 💻 I’m currently learning **Flutter , Dart**
 
