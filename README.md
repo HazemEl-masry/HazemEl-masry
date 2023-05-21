@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **Flutter , Dart**
 
-- 💬 Ask me about **Flutter , Dart , php , Sqlite , Firebase , Node.js , MongoDB**
+- 💬 Ask me about **Flutter , Dart , php , Sqflite , Firebase , Node.js , MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
