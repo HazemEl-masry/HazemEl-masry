@@ -61,7 +61,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/HazemEl-masry/HazemEl-masry/output/snake.svg" alt="Snake animation" />
-
 ###
