@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Flutter , Dart<br>🎯 Goals: ...</p>
+<p align="left">📚 I'm currently learning Flutter , Dart<br>💭 Ask me about Flutter , Dart , Node.js , MongoDB , Firebase</p>
 
 ###
 
