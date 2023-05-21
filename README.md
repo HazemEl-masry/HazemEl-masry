@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/CeT4dUy45VcAAAAC/luffy-straw-hat.gif"  />
-
-###
-
 <h4 align="left">My name is Hazem Elmasry and I'm a Mobile Developer .</h4>
 
 ###
@@ -61,4 +57,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/HazemEl-masry/HazemEl-masry/output/snake.svg" alt="Snake animation" />
+
 ###
