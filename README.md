@@ -31,6 +31,7 @@
 
 ###
 
+<!--
 <h2 align="left">I code with</h2>
 
 ###
@@ -48,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
 </div>
-
+-->
 
 ###
 
