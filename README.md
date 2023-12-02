@@ -67,4 +67,6 @@
 
 ###
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=HazemEl-masry)](https://github.com/madushadhanushka/github-readme)
+
 
