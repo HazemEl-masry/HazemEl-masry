@@ -51,6 +51,10 @@
 
 ###
 
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HazemEl-masry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
