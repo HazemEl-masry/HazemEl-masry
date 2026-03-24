@@ -8,13 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 📱 Mobile Developer specializing in **Flutter** & **Dart**
-- 🏗 Passionate about **Clean Architecture**, **SOLID Principles** & **Dependency Injection**
-- 🔄 State management with **Bloc / Cubit**
-- 🛠 Backend experience with **NestJS**, **MongoDB**, **Firebase**
-- 📚 Currently deepening knowledge in **CI/CD** for mobile apps
-- 🎯 Focused on creating apps with **high performance** and **great user experience**
-- 🤝 Open for freelance, remote, and full-time opportunities
+- 📱 Flutter developer with a **published app on Google Play** — [House Mart](https://play.google.com/store/apps/details?id=com.housemart.house_mart)
+- 🏗 I build mobile apps with **Clean Architecture**, **Bloc**, and **Dependency Injection** from day one
+- 🔗 Full-cycle experience: Flutter frontend → NestJS backend → MongoDB database
+- 📚 Currently leveling up in **CI/CD** and **automated testing** for mobile
+- 🤝 Open to **freelance**, **remote**, and **full-time** opportunities
 
 ---
 
