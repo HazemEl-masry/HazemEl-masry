@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Hazem Elmasry</h1>
   <h3>💻 Mobile Developer | Flutter & Dart Specialist</h3>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Clean+Architecture+Advocate;Mobile+App+Creator;UI%2FUX+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Published+on+Google+Play;Clean+Architecture+%7C+Bloc;Flutter+%2B+NestJS+%2B+MongoDB;Problem+Solver)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 📱 Flutter developer with a **published app on Google Play** — [House Mart](https://play.google.com/store/apps/details?id=com.housemart.house_mart)
 - 🏗 I build mobile apps with **Clean Architecture**, **Bloc**, and **Dependency Injection** from day one
-- 🔗 Full-cycle experience: Flutter frontend → NestJS backend → MongoDB database
+- 🔗 Full-cycle experience: Flutter frontend → NestJS backend → MongoDB & PostgreSQL
 - 📚 Currently leveling up in **CI/CD** and **automated testing** for mobile
 - 🤝 Open to **freelance**, **remote**, and **full-time** opportunities
 
