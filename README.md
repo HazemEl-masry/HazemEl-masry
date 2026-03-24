@@ -21,23 +21,27 @@
 ### 🛠 Tech Stack
 
 #### 📱 Mobile
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+#### 🏛 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge&logo=buffer&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-%23363D98.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-informational?style=for-the-badge&logo=buffer&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-blueviolet?style=for-the-badge&logo=buffer&logoColor=white)
 
 #### 🗄 Backend & Database
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
-</div>
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🧰 Tools & Others
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-</div>
+#### 🧰 Tools & Services
+![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white)
+![FCM](https://img.shields.io/badge/Firebase%20Cloud%20Messaging-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -64,19 +68,6 @@
 
 ---
 
-### 🏗 Architecture & Best Practices
-
-```
-✅ Clean Architecture   — Separation of Data / Domain / Presentation layers
-✅ SOLID Principles     — Scalable and maintainable codebase
-✅ Bloc / Cubit         — Predictable state management
-✅ Dependency Injection — Decoupled, testable components
-✅ RESTful APIs         — NestJS backend integration
-✅ FCM                  — Push notification support
-✅ Google Maps          — Location-based features
-```
-
----
 
 ### 📌 Featured Projects
 
