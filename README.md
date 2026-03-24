@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Hazem Elmasry</h1>
   <h3>💻 Mobile Developer | Flutter & Dart Specialist</h3>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Published+on+Google+Play;Clean+Architecture+%7C+Bloc;Flutter+%2B+NestJS+%2B+MongoDB;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Published+on+Google+Play;Clean+Architecture+%7C+Bloc;Flutter+%2B+NestJS+Backend;MongoDB+%26+PostgreSQL;Problem+Solver)](https://git.io/typing-svg)
 </div>
 
 ---
